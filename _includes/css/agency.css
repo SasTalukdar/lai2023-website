@@ -279,7 +279,7 @@ header {
 }
 
 header .intro-text {
-    padding-top: 100px;
+    padding-top: 0px;
     padding-bottom: 50px;
 }
 
@@ -658,13 +658,13 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/map-image.png');
+    background-image: url('{{ site.baseurl }}/img/map-image.jpg');
     background-position: center;
     background-repeat: no-repeat;
 }
 
 section#contact .section-heading {
-    color: #fff;
+    color: #000000;
 }
 
 section#contact .form-group {

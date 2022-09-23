@@ -1,46 +1,86 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://lai2023.github.io/
+baseurl: 
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: LAI2023
+email: lai23nitrkl@gmail.com
+description: "Land-Atmosphere Interactions Controlling Weather & Climate: Applications of Numerical Models and Observations, 2023"
 
 
-# Team names, titles and social links
-people:
-- name: Kay Garland
+# Advisory committee names, titles and links
+adv_com:
+- name: Dr. M. Ravichandran
   pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  position: MoES Secretary
 
-- name: Larry Parker
+- name: Dr. Mrutyunjay Mohapatra
   pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  position: DG, IMD
 
-- name: Diana Petersen
+- name: Joint Secretary
   pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  position: MoEFCC, Govt. of India
+- name: Prof. U. C. Mohanty
+  pic: 4
+  position: IIT Bhubaneswar
+
+- name: Prof. G. S. Bhat
+  pic: 5
+  position: IISC Bangalore
+
+- name: Dr. R. Krishnan
+  pic: 6
+  position: Director, IITM Pune
+
+- name: Prof. A. P. Dimri
+  pic: 7
+  position: Director, IIG Mumbai
+
+- name: Prof. S. Nautiyal
+  pic: 8
+  position: Director, GBPNIHE Almora
+
+- name: Er. K. Kumar
+  pic: 9
+  position: Sc-G, Nodal Scientist, NMHS, Govt. of India
+
+- name: Prof. Subimal Ghosh
+  pic: 10
+  position: IIT Bombay
+
+- name: Prof. A N V Satyanarayana
+  pic: 11
+  position: IIT Kharagpur
+
+- name: Prof. Ashok Karumuri
+  pic: 12
+  position: Hyderabad Central University
+
+# Program committee names, titles and links
+prog_com:
+- name: Prof. Sumit Sen
+  pic: 1
+  position: IIT Roorkee
+
+- name: Dr. K. C. Sekar
+  pic: 2
+  position: GBPNIHE
+
+- name: Dr. Sandipan Mukherjee
+  pic: 3
+  position: Sc-D, GBPNIHE
+
+- name: Dr. Vaibhav Gosavi
+  pic: 4
+  position: Sc-C, GBPNIHE
+
+- name: Dr. Krishna Kishore Osuri
+  pic: 5
+  position: NIT Rourkela
+
+- name: Prof. Jagabandhu Panda
+  pic: 6
+  position: NIT Rourkela
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -53,12 +93,14 @@ social:
   - title: bitbucket 
     url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://lai2023.github.io/
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Department of Earth and Atmospheric Sciences
+  - line: National Institute of Technology Rourkela
+  - line: Rourkela, Odisha
+  - line: PIN 769008
 
 # Build settings
 markdown: kramdown
