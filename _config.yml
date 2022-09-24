@@ -82,6 +82,12 @@ prog_com:
   pic: 6
   position: NIT Rourkela
 
+# Patron names, titles and links
+patron:
+- name: Prof. K .Umamaheshwar Rao
+  pic: 1
+  position: Director, NIT Rourkela
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
