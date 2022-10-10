@@ -1,9 +1,9 @@
 ---
-title: Land surface processes through observations and numerical modeling
-subtitle: More details about land surface processes 
+title: Land surface processes
+subtitle: Land surface processes through observations and numerical modeling
 layout: default
-modal-id: 4
-date: 2014-07-14
+modal-id: 2
+date: 2014-07-17
 img: land_surface.ppm
 thumbnail: land_surface_processes.jpg
 alt: image-alt

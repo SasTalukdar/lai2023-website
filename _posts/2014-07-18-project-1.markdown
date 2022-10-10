@@ -1,9 +1,9 @@
 ---
 title: Extreme weather events
-subtitle: More details about extreme weather events
+subtitle: Extreme weather events
 layout: default
-modal-id: 5
-date: 2014-07-15
+modal-id: 1
+date: 2014-07-18
 img: extremeweather.jpg
 thumbnail: extremeweather_thumb.jpg
 alt: image-alt
@@ -11,4 +11,5 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: An extreme weather event is something that falls outside the realm of normal weather patterns. It can range from superpowerful hurricanes to torrential downpours to extended hot dry weather and more. Extreme weather events are, themselves, troublesome, but the effects of such extremes, including damaging winds, floods, drought and wildfires, can be devastating.
+
 ---

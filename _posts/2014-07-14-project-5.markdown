@@ -1,8 +1,8 @@
 ---
-title: Remote sensing application in weather and climate
-subtitle: More details about Remote sensing application
+title: Remote sensing
+subtitle: Remote sensing application in weather and climate
 layout: default
-modal-id: 1
+modal-id: 5
 date: 2014-07-14
 img: remote_sensing.jpg
 thumbnail: remote_sensing_thumb.jpeg

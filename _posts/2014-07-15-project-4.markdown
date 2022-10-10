@@ -1,8 +1,8 @@
 ---
-title: Water and plant biodiversity in the mountain climate
-subtitle: More details about mountain climates
+title:  Mountain Climate
+subtitle: Water and plant biodiversity in the mountain climate
 layout: default
-modal-id: 2
+modal-id: 4
 date: 2014-07-15
 img: mountain_climate.jpg
 thumbnail: mountain_thumb.jpg
@@ -11,4 +11,5 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: High mountain environments generally reach higher degrees of naturalness and are exposed to fewer direct human impacts than lowlands, show high habitat variation over short distances, but are often strongly fragmented. A number of studies in European mountain ranges found rapid directional shifts in plant species compositions of alpine communities and increasing species numbers in synchrony with rising temperatures, thus corroborating the expectation of a high sensitivity of mountain floras to climatic changes.
+
 ---

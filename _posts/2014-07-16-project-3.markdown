@@ -1,9 +1,9 @@
 ---
-title: AI & ML applications in weather and climate
-subtitle: More details about AI & ML applications
+title: AI & ML
+subtitle: AI & ML applications in weather and climate
 layout: default
 modal-id: 3
-date: 2014-07-15
+date: 2014-07-16
 img: ml_ai.ppm
 thumbnail: ai_thumb.jpg
 alt: image-alt
@@ -11,4 +11,5 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: With the recent advances in deep neural networks and other related machine learning techniques, statistical empirical prediction is firmly back in vogue. This raises a number of questions. Will the methods of artificial intelligence replace numerical models? Or, failing that, can they be used to supplement or enhance numerical models?
+
 ---
