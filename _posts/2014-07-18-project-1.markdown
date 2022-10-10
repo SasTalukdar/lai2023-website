@@ -2,7 +2,7 @@
 title: Extreme weather events
 subtitle: More details about extreme weather events
 layout: default
-modal-id: 1
+modal-id: 5
 date: 2014-07-15
 img: extremeweather.jpg
 thumbnail: extremeweather_thumb.jpg

@@ -2,10 +2,10 @@
 title: Water and plant biodiversity in the mountain climate
 subtitle: More details about mountain climates
 layout: default
-modal-id: 4
+modal-id: 2
 date: 2014-07-15
 img: mountain_climate.jpg
-thumbnail: mountain_thumb.jpeg
+thumbnail: mountain_thumb.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
