@@ -1,11 +1,11 @@
 ---
-title: Land surface processes
-subtitle: Land surface processes through observations and numerical modeling
+title: Remote sensing
+subtitle: Remote sensing application in weather and climate
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: land_surface.ppm
-thumbnail: land_surface_processes.jpg
+img: remote_sensing.jpg
+thumbnail: remote_sensing_thumb.jpeg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
