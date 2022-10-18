@@ -18,7 +18,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "././mail/contact_me.php",
+                url: "https://forms.un-static.com/forms/fa1ed55b6cf6f4623e01e99179e95087ea09ee36",
                 type: "POST",
                 data: {
                     name: name,
