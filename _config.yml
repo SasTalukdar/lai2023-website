@@ -29,9 +29,9 @@ adv_com:
   pic: 8
   position: Director, GBPNIHE Almora
 
-- name: Er. K. Kumar
+- name: Dr. K. Kumar
   pic: 9
-  position: Sc-G, Nodal Scientist, NMHS, Govt. of India
+  position: Nodal Scientist, NMHS
 
 - name: Prof. Subimal Ghosh
   pic: 10
@@ -40,6 +40,10 @@ adv_com:
 - name: Prof. A N V Satyanarayana
   pic: 11
   position: IIT Kharagpur
+
+- name: 
+  pic: 
+  position: 
 
 - name: Prof. Ashok Karumuri
   pic: 12
@@ -62,6 +66,10 @@ prog_com:
 - name: Dr. Vaibhav Gosavi
   pic: 4
   position: Sc-C, GBPNIHE
+
+- name: 
+  pic: 
+  position: 
 
 - name: Dr. Krishna Kishore Osuri
   pic: 5
@@ -89,7 +97,7 @@ convener:
   
 - name: Dr. Krishna Kishore Osuri
   pic: 1
-  position: Dept. of Earth and Atmospheric Sciences
+  position: NIT Rourkela
 
 # Co-converner names, titles and links
 co-convener:
@@ -99,8 +107,11 @@ co-convener:
   
 - name: Dr. Jagabandhu Panda
   pic: 1
-  position: Dept. of Earth and Atmospheric Sciences
+  position: NIT Rourkela
 
+- name: Dr. Sandipan Mukherjee
+  pic: 2
+  position: GBPNIHE
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
