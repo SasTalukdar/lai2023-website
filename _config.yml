@@ -14,9 +14,6 @@ adv_com:
   pic: 2
   position: DG, IMD
 
-- name: Joint Secretary
-  pic: 3
-  position: MoEFCC, Govt. of India
 - name: Prof. U. C. Mohanty
   pic: 4
   position: IIT Bhubaneswar
@@ -31,7 +28,7 @@ adv_com:
 
 - name: Dr. K. Kumar
   pic: 9
-  position: Nodal Scientist, NMHS
+  position: Nodal Officer, NMHS
 
 - name: Prof. Subimal Ghosh
   pic: 10
@@ -40,10 +37,6 @@ adv_com:
 - name: Prof. A N V Satyanarayana
   pic: 11
   position: IIT Kharagpur
-
-- name: 
-  pic: 
-  position: 
 
 - name: Prof. Ashok Karumuri
   pic: 12
