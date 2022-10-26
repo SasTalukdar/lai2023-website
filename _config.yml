@@ -11,53 +11,53 @@ description: "Land-Atmosphere Interactions Controlling Weather & Climate: Applic
 adv_com:
 
 - name: Dr. Mrutyunjay Mohapatra
-  pic: 2
+  pic: m_mohapatra
   position: DG, IMD
 
 - name: Prof. U. C. Mohanty
-  pic: 4
+  pic: uc_mohanty
   position: IIT Bhubaneswar
 
 - name: Prof. A. P. Dimri
-  pic: 7
+  pic: ap_dimri
   position: Director, IIG Mumbai
 
 - name: Prof. S. Nautiyal
-  pic: 8
+  pic: s_nautiyal
   position: Director, GBPNIHE Almora
 
 - name: Dr. K. Kumar
-  pic: 9
+  pic: k_kumar
   position: Nodal Officer, NMHS
 
 - name: Prof. Subimal Ghosh
-  pic: 10
+  pic: s_ghosh
   position: IIT Bombay
 
 - name: Prof. A N V Satyanarayana
-  pic: 11
+  pic: anv_satyanarayana
   position: IIT Kharagpur
 
 - name: Prof. Ashok Karumuri
-  pic: 12
+  pic: a_kurumuri
   position: Hyderabad Central University
 
 # Program committee names, titles and links
 prog_com:
 - name: Prof. Sumit Sen
-  pic: 1
+  pic: s_sen
   position: IIT Roorkee
 
 - name: Dr. K. C. Sekar
-  pic: 2
+  pic: kc_sekar
   position: GBPNIHE
 
 - name: Dr. Sandipan Mukherjee
-  pic: 3
+  pic: s_mukherjee
   position: Sc-D, GBPNIHE
 
 - name: Dr. Vaibhav Gosavi
-  pic: 4
+  pic: v_gosavi
   position: Sc-C, GBPNIHE
 
 - name: 
@@ -65,11 +65,11 @@ prog_com:
   position: 
 
 - name: Dr. Krishna Kishore Osuri
-  pic: 5
+  pic: kk_osuri
   position: NIT Rourkela
 
 - name: Dr. Jagabandhu Panda
-  pic: 6
+  pic: j_panda
   position: NIT Rourkela
 
 # Patron names, titles and links
@@ -79,7 +79,7 @@ patron:
   position: 
 
 - name: Prof. K .Umamaheshwar Rao
-  pic: 1
+  pic: ku_rao
   position: Director, NIT Rourkela
 
 # Convener names, titles and links
@@ -89,7 +89,7 @@ convener:
   position: 
   
 - name: Dr. Krishna Kishore Osuri
-  pic: 1
+  pic: kk_osuri
   position: NIT Rourkela
 
 # Co-converner names, titles and links
@@ -99,11 +99,11 @@ co-convener:
   position: 
   
 - name: Dr. Jagabandhu Panda
-  pic: 1
+  pic: j_panda
   position: NIT Rourkela
 
 - name: Dr. Sandipan Mukherjee
-  pic: 2
+  pic: s_mukherjee
   position: GBPNIHE
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
