@@ -5,7 +5,7 @@ layout: default
 modal-id: 2
 date: 2014-07-17
 img: remote_sensing.jpg
-thumbnail: remote_sensing_thumb.jpeg
+thumbnail: remote_sensing_th.jpeg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
